@@ -1,0 +1,1 @@
+# array-b-diisi-dengan-array-a-lebih-besar-dari-nol-tetapi-indeks-berurutan
